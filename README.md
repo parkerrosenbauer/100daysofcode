@@ -6,3 +6,20 @@ basics and then just explored whatever packages I needed enough to be able to co
 all of my projects down the line, as well as explore new possibilities I didn't know were available.
 
 To complete this challenge I am following the "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy taught by Dr. Angela Yu from AppBrewery
+
+To see specific skills explored, please use this as a guide: 
+
+Days 1-5
+- Variables
+- Logical Operators
+- Randomisation
+- Lists
+- Loops
+
+Days 6-10
+- Functions
+- Dictionaries
+
+Days 11-15
+- Scope
+- Debugging
