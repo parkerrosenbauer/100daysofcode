@@ -9,6 +9,7 @@ To complete this challenge I am following the "100 Days of Code: The Complete Py
 
 To see specific skills explored, please use this as a guide: 
 
+~ Beginner
 Days 1-5
 - Variables
 - Logical Operators
