@@ -24,3 +24,7 @@ To see specific skills explored, please use this as a guide:
 #### Days 11-15
 - Scope
 - Debugging
+
+### Intermediate
+#### Days 16-20
+- OOP
