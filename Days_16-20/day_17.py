@@ -1,8 +1,8 @@
 # Day 17 of 100 Days of Code Challenge
 # Quiz Game
-import script17_question as q
+import day_17_question as q
 from data import question_data
-import script17_quiz_brain as qb
+import day_17_quiz_brain as qb
 
 question_bank = []
 for question in question_data:
