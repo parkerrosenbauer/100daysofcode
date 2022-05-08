@@ -28,3 +28,5 @@ To see specific skills explored, please use this as a guide:
 ### Intermediate
 #### Days 16-20
 - OOP
+- Higher Order Functions
+- Event Listeners
