@@ -1,9 +1,9 @@
 # Day 20 & 21 of 100 Days of Code Challenge
 # Snake Game
 from turtle import Screen
-from script20_snake import Snake
-from script20_food import Food
-from script20_score import ScoreBoard
+from day_20_snake import Snake
+from day_20_food import Food
+from day_20_score import ScoreBoard
 import time
 
 screen = Screen()
