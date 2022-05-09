@@ -30,3 +30,5 @@ To see specific skills explored, please use this as a guide:
 - OOP
 - Higher Order Functions
 - Event Listeners
+- Class Inheritance
+- List Slicing
