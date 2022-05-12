@@ -8,6 +8,7 @@ all of my projects down the line, as well as explore new possibilities I didn't 
 To complete this challenge I am following the "100 Days of Code: The Complete Python Pro Bootcamp for 2022" on Udemy taught by Dr. Angela Yu from AppBrewery
 
 To see specific skills explored, please use this as a guide: 
+
 (NOTE: some of the days are capstone projects that use many skills gained by that point, so not every day will have a new skill)
 
 ### Beginner
