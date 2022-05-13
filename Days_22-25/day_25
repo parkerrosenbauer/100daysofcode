@@ -1,0 +1,48 @@
+# Day 25 of 100 Days of Code Challenge
+# Guess the US States
+import pandas as pd
+import turtle
+
+correct = 0
+guesses = []
+
+# set up screen
+screen = turtle.Screen()
+screen.title("US States Game")
+us_image = 'blank_states_img.gif'
+screen.addshape(us_image)
+
+turtle.shape(us_image)
+
+# import states and coordinates
+states = pd.read_csv('day_25_50_states.csv', index_col='state')
+
+# writing turtle
+writer = turtle.Turtle()
+writer.penup()
+writer.hideturtle()
+
+# run the game
+while correct < 50:
+    guess = turtle.textinput(title=f'{correct}/50 States Correct', prompt="List a state:").title()
+    if guess in states.index and guess not in guesses:
+        x_cor = states.x.loc[guess]
+        y_cor = states.y.loc[guess]
+        writer.goto(x_cor, y_cor)
+        writer.write(arg=f'{guess}')
+        correct += 1
+        guesses.append(guess)
+        
+    # exit key word displays all missed states in red at the correct locations
+    if guess == 'Exit':
+        not_guessed = list(set(states.index.to_list()) - set(guesses))
+        writer.color('red')
+        for state in not_guessed:
+            x_cor = states.x.loc[state]
+            y_cor = states.y.loc[state]
+            writer.goto(x_cor, y_cor)
+            writer.write(arg=f'{state}', font=('Ariel', 8, 'bold'))
+
+        correct = 50
+
+screen.exitonclick()
