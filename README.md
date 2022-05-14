@@ -38,3 +38,6 @@ To see specific skills explored, please use this as a guide:
 #### Days 22-25
 - Reading/Writing Files
 - Pandas library
+
+#### Days 26-30
+-List Comprehensions
