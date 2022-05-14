@@ -40,4 +40,4 @@ To see specific skills explored, please use this as a guide:
 - Pandas library
 
 #### Days 26-30
--List Comprehensions
+- List Comprehensions
