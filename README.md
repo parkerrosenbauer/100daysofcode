@@ -41,3 +41,5 @@ To see specific skills explored, please use this as a guide:
 
 #### Days 26-30
 - List Comprehensions
+- GUIs (Tkinter)
+- default arguments, **args, **kwargs
