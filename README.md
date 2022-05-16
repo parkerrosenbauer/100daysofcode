@@ -37,9 +37,10 @@ To see specific skills explored, please use this as a guide:
 
 #### Days 22-25
 - Reading/Writing Files
-- Pandas library
+- Pandas Library
 
 #### Days 26-30
 - List Comprehensions
-- GUIs (Tkinter)
-- default arguments, \*args, **kwargs
+- GUIs / Tkinter Library
+- Default Arguments, \*args, **kwargs
+- Dynamic Typing
