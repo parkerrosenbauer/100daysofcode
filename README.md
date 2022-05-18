@@ -44,3 +44,5 @@ To see specific skills explored, please use this as a guide:
 - GUIs / Tkinter Library
 - Default Arguments, \*args, **kwargs
 - Dynamic Typing
+- Catching Exceptions
+- JSON files
