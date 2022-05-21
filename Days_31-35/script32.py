@@ -6,8 +6,8 @@ import pandas as pd
 from random import choice
 
 LETTERS = ["letter_templates/letter_1.txt", "letter_templates/letter_2.txt", "letter_templates/letter_3.txt"]
-USER = "pythonbot97@gmail.com"
-PASS = "pythonpassword"
+USER = "pythonbot97@gmail.com" # email created for testing purposes
+PASS = "password" # dummy password
 now = dt.datetime.now()
 
 
