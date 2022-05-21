@@ -46,3 +46,9 @@ To see specific skills explored, please use this as a guide:
 - Dynamic Typing
 - Catching Exceptions
 - JSON files
+
+### Intermediate +
+### Days 31-35
+- Email Automation / smtplib 
+- datetime module
+- APIs
