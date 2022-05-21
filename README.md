@@ -51,4 +51,4 @@ To see specific skills explored, please use this as a guide:
 ### Days 31-35
 - Email Automation / smtplib 
 - datetime module
-- APIs
+- Intro to APIs
