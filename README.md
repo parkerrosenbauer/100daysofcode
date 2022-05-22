@@ -52,3 +52,4 @@ To see specific skills explored, please use this as a guide:
 - Email Automation / smtplib 
 - datetime module
 - Intro to APIs
+- Type Hints
