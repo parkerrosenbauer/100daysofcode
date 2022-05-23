@@ -1,0 +1,40 @@
+# Day 35 of 100 Days of Code Challenge
+# Rain Text Notification App
+
+import requests
+from twilio.rest import Client
+
+# Open Weather Map Info
+OWM_Endpoint = "https://api.openweathermap.org/data/2.5/onecall"
+LAT = 53.2012
+LONG = 5.7999 
+weather_api_key = "1234567"  # this is a dummy key
+weather_params = {
+    "lat": LAT,
+    "lon": LONG,
+    "exclude": "current,minutely,daily",
+    "appid": weather_api_key
+}
+
+# Twilio Info
+account_sid = "123456"  #  this is a dummy variable
+auth_token = "123456"  #  this is a dummy variable
+client = Client(account_sid, auth_token)
+
+# Pull weather data
+response = requests.get(OWM_Endpoint, params=weather_params)
+response.raise_for_status()
+data = response.json()
+
+# Check if raining, send text if yes
+hours = data["hourly"][:12]
+condition_code = [int(hour["weather"][0]["id"]) for hour in hours]
+will_rain = True in (code < 700 for code in condition_code)
+
+if will_rain:
+    message = client.messages.create(
+        body="It's going to rain today, bring an umbrella ☔",
+        from_="+17196314924",  #  this is the free trial twilio number I had generated
+        to="+15551234" #  this is a dummy number
+    )
+
