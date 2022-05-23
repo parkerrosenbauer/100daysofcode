@@ -54,3 +54,4 @@ To see specific skills explored, please use this as a guide:
 - Intro to APIs
 - Type Hints
 - API authentication
+- Environment Variables
