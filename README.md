@@ -53,3 +53,4 @@ To see specific skills explored, please use this as a guide:
 - datetime module
 - Intro to APIs
 - Type Hints
+- API authentication
