@@ -10,7 +10,7 @@ RIGHT_COLOR = "#5FB45E"
 WRONG_COLOR = "#CA3F41"
 BUTTON_FONT = "Ariel", 35, "bold"
 Q_FONT = "Ariel", 12, "italic"
-score: int
+score = 0
 correct_answer: str
 
 # ---------------------------- RETRIEVE QUESTIONS ------------------------------- #
