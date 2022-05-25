@@ -1,5 +1,6 @@
 # Day 37 of 100 Days of Code Challenge
 # Habit Tracker using the Pixela API
+# view the tracker at: https://pixe.la/v1/users/parkerrosen/graphs/writinggraph.html
 
 import requests
 from datetime import datetime
