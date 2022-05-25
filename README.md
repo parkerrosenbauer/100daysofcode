@@ -48,10 +48,14 @@ To see specific skills explored, please use this as a guide:
 - JSON files
 
 ### Intermediate +
-### Days 31-35
+#### Days 31-35
 - Email Automation / smtplib 
 - datetime module
-- Intro to APIs
+- Intro to APIs /request module (request.get())
 - Type Hints
 - API authentication
 - Environment Variables
+
+#### Days 36-40
+- request module (post(), put(), delete())
+- request headers
