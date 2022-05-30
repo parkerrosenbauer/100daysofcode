@@ -51,7 +51,7 @@ To see specific skills explored, please use this as a guide:
 #### Days 31-35
 - Email Automation / smtplib 
 - datetime module
-- Intro to APIs /request module (request.get())
+- Intro to APIs / request module (request.get())
 - Type Hints
 - API authentication
 - Environment Variables
@@ -59,3 +59,6 @@ To see specific skills explored, please use this as a guide:
 #### Days 36-40
 - request module (post(), put(), delete())
 - request headers
+
+#### Days 41-45
+- Intro to HTML (tags / attributes)
