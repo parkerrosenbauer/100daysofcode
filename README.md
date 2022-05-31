@@ -62,3 +62,5 @@ To see specific skills explored, please use this as a guide:
 
 #### Days 41-45
 - Intro to HTML (tags / attributes)
+- HTML Tables
+- HTML Forms
