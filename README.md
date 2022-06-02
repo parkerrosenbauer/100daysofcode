@@ -65,3 +65,6 @@ To see specific skills explored, please use this as a guide:
 - HTML Tables
 - HTML Forms
 - Intro to CSS (inline/internal/external css, tag/class/id selectors)
+- HTML Div
+- The Box Model
+- CSS Positioning and Display
