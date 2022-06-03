@@ -68,3 +68,5 @@ To see specific skills explored, please use this as a guide:
 - HTML Div
 - The Box Model
 - CSS Positioning and Display
+- Web Scraping / Beautiful Soup (bs4)
+- Web Scraping Ethics
