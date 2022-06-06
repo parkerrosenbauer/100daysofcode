@@ -70,3 +70,6 @@ To see specific skills explored, please use this as a guide:
 - CSS Positioning and Display
 - Web Scraping / Beautiful Soup (bs4)
 - Web Scraping Ethics
+
+#### Days 46-50
+- Selenium Webdriver
