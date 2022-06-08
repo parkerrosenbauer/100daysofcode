@@ -73,3 +73,6 @@ To see specific skills explored, please use this as a guide:
 
 #### Days 46-50
 - Selenium Webdriver
+- Selenium WebDriverWait
+- Selenium find_element(s)
+- Selenium window_handles
