@@ -76,3 +76,9 @@ To see specific skills explored, please use this as a guide:
 - Selenium WebDriverWait
 - Selenium find_element(s)
 - Selenium window_handles
+
+#### Days 51-54
+- Intro to Flask
+- Intro to Terminal Commands
+- Intro to Decorator Functions
+- \__name__ and \__main__
