@@ -81,4 +81,4 @@ To see specific skills explored, please use this as a guide:
 - Intro to Flask
 - Intro to Terminal Commands
 - Intro to Decorator Functions
-- \__name__ and \__main__
+- \_\_name_\_ and \_\_main_\_
