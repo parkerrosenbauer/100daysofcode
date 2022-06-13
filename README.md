@@ -77,8 +77,11 @@ To see specific skills explored, please use this as a guide:
 - Selenium find_element(s)
 - Selenium window_handles
 
-#### Days 51-54
+#### Days 51-55
 - Intro to Flask
 - Intro to Terminal Commands
 - Intro to Decorator Functions
 - \_\_name_\_ and \_\_main_\_
+- Flask Variables & URL Paths
+- Rendering HTML with Flask
+- Advanced Decorators with \*args and **kwargs
