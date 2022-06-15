@@ -85,3 +85,9 @@ To see specific skills explored, please use this as a guide:
 - Flask Variables & URL Paths
 - Rendering HTML with Flask
 - Advanced Decorators with \*args and **kwargs
+
+### Advanced
+#### Days 56-60
+- Rendering HTML and Static Files with Flask
+- Intro to Jinja
+- URL building with Flask
