@@ -1,5 +1,6 @@
 # Day 57 of 100 Days of Code Challenge
 # Dynamic Blog Page
+# Check out what the page looks like using the preview image
 
 import requests
 from post import Post
