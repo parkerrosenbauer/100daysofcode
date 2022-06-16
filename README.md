@@ -91,6 +91,6 @@ To see specific skills explored, please use this as a guide:
 - Intro to Jinja
 - URL building with Flask
 
-### Day 58: Bootstrap Marathon (5 hrs of learning)
+#### Day 58: Bootstrap Marathon (5 hrs of learning)
 - Wireframing
 
