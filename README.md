@@ -86,8 +86,11 @@ To see specific skills explored, please use this as a guide:
 - Rendering HTML with Flask
 - Advanced Decorators with \*args and **kwargs
 
-### Advanced
-#### Days 56-60
+#### Days 56-57
 - Rendering HTML and Static Files with Flask
 - Intro to Jinja
 - URL building with Flask
+
+### Day 58: Bootstrap Marathon (5 hrs of learning)
+- Wireframing
+
