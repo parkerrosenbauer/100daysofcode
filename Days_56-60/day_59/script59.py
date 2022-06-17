@@ -1,6 +1,8 @@
 # Day 59 of 100 Days of Code Challenge
 # Improved Blog Website
 # This website is based off a free theme found at: https://startbootstrap.com/previews/clean-blog
+# A preview of the website can be seen in the preview image file in the folder
+# Note, the static files weren't uploaded for this project
 
 """
 Accomplished tasks:
