@@ -92,5 +92,9 @@ To see specific skills explored, please use this as a guide:
 - URL building with Flask
 
 #### Day 58: Bootstrap Marathon (5 hrs of learning)
-- Wireframing
-
+- Grid System / Responsive Columns
+- Containers
+- Carousels / Buttons / Cards
+- CSS z-index / Stacking Order
+- CSS Media Query Breakpoints
+- Combining Selectors
