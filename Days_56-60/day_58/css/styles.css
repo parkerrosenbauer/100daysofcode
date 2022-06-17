@@ -1,0 +1,184 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 900;
+}
+
+p {
+    color: #8f8f8f;
+    font-weight: 400;
+}
+
+/* Headings */
+
+.big-heading {
+    font-size: 3.5rem;
+    line-height: 1.5;
+}
+
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid {
+    padding: 7% 15%;
+}
+
+/* Sections */
+
+.colored-section {
+    background-color: #ff4c68;
+    color: white;
+}
+
+.white-section {
+    background-color: white;
+}
+
+/* Navigation Bar */
+
+.navbar {
+    padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.5rem;
+    font-weight: 700;
+}
+
+.navbar-container {
+    padding-left: 0;
+}
+
+.nav-item {
+    font-size: 1.2rem;
+    font-weight: 400;
+    padding: 0 18px;
+}
+
+/* Title */
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
+    text-align: left;
+}
+
+/* Title Buttons */
+
+.download-button {
+    font-size: 1.2rem;
+    font-weight: 100;
+    margin: 7% 2% 0 0;
+}
+
+/* Title Image */
+
+.phone-container {
+    position: relative;
+}
+
+.phone {
+   padding: 5px;
+   position: absolute;
+   transform: rotate(25deg);
+   right: 25%;
+   width: 50%;
+}
+
+/* Responsive Title */
+
+@media (max-width: 1028px) {
+    #title {
+        text-align: center;
+    }
+
+    .phone {
+        margin: 10% 0 0;
+        position: static;
+        transform: rotate(0);
+    }
+
+}
+
+/* Features */
+
+#features {
+    position: relative;
+}
+
+/* Icons */
+
+.fa-feat {
+    color: #ef8172;
+    font-size: 4rem;
+    padding-bottom: 4%;
+}
+
+.fa-feat:hover {
+    color: #ff4c68;
+}
+
+.feature-title {
+    font-size: 1.5rem;
+}
+
+/* Testimonials Section */
+
+#testimonials {
+    background-color: #ef8172;
+}
+
+.testimonial-text {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
+/* Testimonial Image */
+
+.testimonial-image {
+    border-radius: 100%;
+    margin: 20px;
+    width: 10%;
+}
+
+/* Press Section */
+
+#press {
+    background-color: #ef8172;
+    padding-bottom: 3%;
+}
+
+.press-image {
+    margin: 20px 20px 50px;
+    width: 10%;
+}
+
+/* Pricing Section */
+
+#pricing {
+    padding: 7% 15%;
+}
+
+.price-card {
+    padding: 3% 2%;
+}
+
+.price-text {
+    font-size: 2rem;
+    line-height: 1.5;
+}
+
+/* Call To Action Section */
+
+/* Footer Section */
+
+.fa-footer {
+    margin: 15px 5px;
+}
