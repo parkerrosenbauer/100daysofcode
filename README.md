@@ -102,3 +102,5 @@ To see specific skills explored, please use this as a guide:
 ### Advanced
 #### Days 59-65
 - POST Requests with Flask
+- Flask WTForms
+- Jinja Template Inheritance
