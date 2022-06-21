@@ -104,3 +104,5 @@ To see specific skills explored, please use this as a guide:
 - POST Requests with Flask
 - Flask WTForms
 - Jinja Template Inheritance
+- SQLite3
+- SQLAlchemy / flask_sqlalchemy (Add/Update/Delete)
