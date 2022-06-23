@@ -106,3 +106,4 @@ To see specific skills explored, please use this as a guide:
 - Jinja Template Inheritance
 - SQLite3
 - SQLAlchemy / flask_sqlalchemy (Add/Update/Delete)
+- Intro to Website Design
